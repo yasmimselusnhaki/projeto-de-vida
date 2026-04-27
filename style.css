@@ -68,11 +68,12 @@ body {
   .botoes {
     display: flex;
   }
-}
-@media screen and (min-width: 768px) {
-  /* Código omitido */
-
-  .botao:last-child {
+  .botao:first-child {
+    border-radius: 40px 0 0 0;
+  }
+   .botao:last-child {
     border-radius: 0 40px 0 0;
   }
 }
+
+ 
