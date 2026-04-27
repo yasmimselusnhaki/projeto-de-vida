@@ -1,6 +1,6 @@
 const botoes = document.querySelectorAll(".botao");
 
-for(let i=o;i <botoes.length;i++){
+for(let i=0;i <botoes.length;i++){
     botoes[i].onclick = function(){
 
         for(let j=o;j<botoes.length;j++){
