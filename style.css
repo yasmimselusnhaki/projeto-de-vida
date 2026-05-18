@@ -92,7 +92,7 @@ body {
 
 .contador-digito{
   padding: 0 16px;
-  text-align: center;
+  justify-content:  center;
   min-width: 100px;
 }
 
